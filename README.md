@@ -5,7 +5,7 @@
 - Technologies and Tools Used  
   `node JS` `Express JS` `ejs` `mongodb` `mongoose`
 
--how to run?
+- how to run?
 
-> npm install
+> npm install  
 > npm start
